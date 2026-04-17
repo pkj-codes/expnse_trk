@@ -1,0 +1,5 @@
+{
+  "name": "Expense Tracker",
+  "description": "A natural language expense tracker with budget alerts and anomaly detection.",
+  "requestFramePermissions": []
+}
